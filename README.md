@@ -18,13 +18,13 @@ This repository contains two basic Python programs as part of a practice assignm
 ## Task 2: Using the Math Module for Calculations
 
 - **Description**:  
-  This program takes a user input and uses the Python `math` module to perform the following:
+  This program takes a user input and uses the Python3 `math` module to perform the following:
   - Calculate the square root of the number
   - Calculate the natural logarithm (base e) of the number
   - Calculate the sine of the number (in radians)
 - **Sample Output**:  
   For input `25`, the output will be:
-  ```
+  ``'
   Square root of 25.0: 5.0
   Natural logarithm of 25.0: 3.2188758248682006
   Sine of 25.0 (in radians): -0.13235175009777303
